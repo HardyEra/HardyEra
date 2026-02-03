@@ -1,1 +1,1 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HardyEra&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HardyEra&layout=compact)
