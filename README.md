@@ -1,6 +1,6 @@
 ## 🚀 Languages I Use
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HardyEra&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HardyEra&layout=compact&theme=tokyonight&hide=html,css)
 
 
 <!--
